@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Nawam Sahasra
 #### I'm Programmer
-![I'm Programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I'm Programmer]
 
 I'm currently studying in BSc honours Software Engineering degree programme at NSBM Green University
 
