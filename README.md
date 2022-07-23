@@ -4,7 +4,7 @@
 
 I'm currently studying in BSc honours Software Engineering degree programme at NSBM Green University
 
-Skills: JAVA / C / JS / HTML / CSS
+Skills: JAVA / C / JS / HTML / CSS / Flutter / Firebase / Dart / 
 
 - 🌱 I’m currently learning BSc honours Software Engineering 
 
