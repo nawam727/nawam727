@@ -30,3 +30,5 @@ Skills: JAVA / C / JS / HTML / CSS / Flutter / Firebase / Dart /
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nawam727)  
 
 ![Profile views](https://gpvc.arturio.dev/nawam727)    
+
+[![@nawam727's Holopin board](https://holopin.me/nawam727)](https://holopin.io/@nawam727)
