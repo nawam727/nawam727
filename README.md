@@ -37,6 +37,8 @@ I am a Full Stack Developer from Sri Lanka.
 <div id="header" align="center">
 <img src="https://img.shields.io/badge/-Java-red?style=flat-square&logo=java"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-React.js-2088FF?style=flat-square&logo=react"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
@@ -47,7 +49,7 @@ I am a Full Stack Developer from Sri Lanka.
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=FFBB00"/>&nbsp;&nbsp;
+
 </div>
 
 ### 🏆 Achievements (2022):
