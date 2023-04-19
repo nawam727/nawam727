@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
+  <img src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47o80hhksvnhrhmvheoy280a5co20nvshg90yqoy4m&rid=giphy.gif&ct=g" width="100"/> <br>
   <div id="badges">
   <a href="mailto:nawamdenawakage@gmail.com">
     <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -31,6 +32,10 @@ I am a Full Stack Developer from Sri Lanka.
 - :zap: In my free time, I solve problems on Hackerrank and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nawam-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nawamsahasra)
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47z54gen5j3ffujn24mkeqdm4e683rjvcnumdqgws8&rid=giphy.gif&ct=g" width="100"/>
+  </div>
 
 ### :hammer_and_wrench: Languages and Tools :
 
