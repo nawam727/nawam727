@@ -66,6 +66,16 @@ I am a Full Stack Developer from Sri Lanka.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawam727&layout=compact&theme=dark)
   
+<br>
+<a href="https://www.youtube.com/watch?v=KQBVOQ79G2s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br>
+<p align="center">
+    <a href="https://wakatime.com/@Goblin8888">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=nawam727&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
+
+  
 
 
 <!-- Resources -->
