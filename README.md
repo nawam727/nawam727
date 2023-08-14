@@ -67,7 +67,7 @@ I am a Full Stack Developer from Sri Lanka.
 
 ![Nawam's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawam727&show_icons=true&theme=dark&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawam727&layout=compact&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawam727&layout=compact&theme=dark)](https://github.com/nawam727/github-readme-stats)
 
 [![Nawam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nawam727&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
