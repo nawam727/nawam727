@@ -58,7 +58,7 @@ I am a Full Stack Developer from Sri Lanka.
 </div>
 
 ### 🏆 Achievements (2022):
-[![An image of @nawam727's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nawam727)](https://holopin.io/@nawam727)
+[![An image of @nawam727's Holopin badges](https://holopin.me/nawam727)](https://holopin.io/@nawam727)
 <div align=center>
   <img width="200" src="https://user-images.githubusercontent.com/86360412/214757966-662518c6-1388-45c1-8cc3-398c9ba11a28.png" alt="Postman API Fundamentals Student Expert Bagde" />
 </div>
