@@ -21,6 +21,21 @@
 </h1>
 </div>
 
+### 👀 Profile Views :
+
+
+  <table>
+    <tr>
+      <!-- <th>Profile Views</th> -->
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <td>
+         <a href="https://github.com/nawam727"> <img src="https://komarev.com/ghpvc/?username=nawam727&style=for-the-badge&color=brightgreen"> </a>
+      </td>
+    </tr>
+  </table>
+
 ### :man_technologist: About Me :
 
 I am a Full Stack Developer from Sri Lanka.
@@ -57,7 +72,7 @@ I am a Full Stack Developer from Sri Lanka.
 
 </div>
 
-### 🏆 Achievements (2022):
+### 🏆 Achievements :
 [![An image of @nawam727's Holopin badges](https://holopin.me/nawam727)](https://holopin.io/@nawam727)
 <div align=center>
   <img width="200" src="https://user-images.githubusercontent.com/86360412/214757966-662518c6-1388-45c1-8cc3-398c9ba11a28.png" alt="Postman API Fundamentals Student Expert Bagde" />
@@ -65,6 +80,12 @@ I am a Full Stack Developer from Sri Lanka.
 </div>
 
 ### :fire: My Stats :
+
+<p align="left">
+  <a href="https://github.com/nawam727">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nawam727&theme=dark&include=true&stroke=f53b3b"/>
+</a> 
+</p>
 
 ![Nawam's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawam727&show_icons=true&theme=dark&include_all_commits=true)
 
