@@ -81,6 +81,7 @@ I am a Full Stack Developer from Sri Lanka.
 [![An image of @nawam727's Holopin badges](https://holopin.me/nawam727)](https://holopin.io/@nawam727)
 <div align=center>
   <img width="200" src="https://user-images.githubusercontent.com/86360412/214757966-662518c6-1388-45c1-8cc3-398c9ba11a28.png" alt="Postman API Fundamentals Student Expert Bagde" />
+  <img width="200" src="https://github.com/nawam727/portfoliowebsite/assets/86096042/ec6a6730-baeb-44d9-8ff9-bd734d94c24b" alt="Cloud Practitioner Badge"/>
   <img width="200" src="https://github.com/nawam727/devops_project/assets/86096042/3d0f1b9f-26a9-4db7-b522-40dc15b8cf64" alt="Linux Commands & Shell Scripting Essentials V2 Bagde" />
 </div>
 
